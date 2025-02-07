@@ -57,45 +57,49 @@ content:
   - title: Summary
     layout: text
     content: |
-      Highly motivated backend developer with a strong foundation in computer science. Experienced in delivering secure, scalable, and user-friendly solutions. Quick learner with a passion for innovation and teamwork.
+      Highly motivated Backend Developer with hands-on experience in software projects.
+      Proven ability to learn new technologies independently and solve complex problems with scalable, secure solutions.
 
   - title: Technical Skills
-    layout: list
-    content:
-      - title: Languages
-        description: Python, Java, C, JavaScript
-      - title: Frameworks & Libraries
-        description: Node.js, Django, Express, React, Material-UI, Pandas
-      - title: Databases & Tools
-        description: MongoDB, MySQL, Redis, Git, Linux
+    layout: text
+    content: |
+      **Programming Languages:** Python, Java, C, JavaScript  
+      **Frameworks & Libraries:** Node.js, Django, Express, React, Material-UI, Pandas  
+      **Databases & Tools:** MongoDB, MySQL, Redis, Git, Linux  
+      **English Proficiency:** Fluent in speaking and writing  
 
   - title: Professional Projects
     layout: list
     content:
       - title: Anti-Phishing Chrome Extension
+        sub_title: Backend & Security Project
         description: |
-          - Developed a Chrome extension for phishing threat detection and mitigation.
-          - Designed a scalable backend for URL and SSL certificate management using Node.js.
-          - Built a responsive frontend for real-time security monitoring.
+          - Developed a Chrome extension to detect phishing threats.
+          - Built a scalable backend for SSL certificate validation using Node.js.
+          - Created a responsive front-end interface for real-time detection.
+          - Adapted quickly to evolving project requirements.
+
       - title: Secure Development Web Application
+        sub_title: Full-Stack Web Application
         description: |
-          - Created a full-stack web application with Django and MySQL.
-          - Followed industry standards to secure against common vulnerabilities.
-          - Improved application stability through secure coding practices.
+          - Built a secure web application with Django and MySQL.
+          - Identified and mitigated security vulnerabilities by following industry standards.
+          - Improved application reliability through secure coding practices.
 
   - title: Education
     layout: list
     content:
       - title: Holon Institute of Technology (HIT)
         sub_title: B.Sc. in Computer Science (2021 - 2024)
-        content: |
-          - Key Coursework: Data Structures, Databases, Operating Systems, AI & Machine Learning
-          - Highlights: Applied C programming, built Linux systems, and utilized Python for data analysis.
+        description: |
+          - Key coursework: Data Structures, Databases, Operating Systems, AI, and Machine Learning.
+          - Gained practical experience with low-level computing, Linux, Python, and data analysis.
+
       - title: John Bryce Training
         sub_title: Full-Stack Java Development (2019 - 2020)
-        content: |
-          - Completed with honors for a robust "Coupon Management" web application.
-          - Developed expertise in Spring Boot, Hibernate, and MySQL.
+        description: |
+          - Completed with honors for developing a robust "Coupon Management" web application.
+          - Acquired expertise in Spring Boot, Hibernate, and MySQL.
 
   - title: Experience
     layout: list
@@ -103,20 +107,22 @@ content:
       - title: Radio 103 FM
         sub_title: Radio Sound Technician (2018 - 2019)
         description: |
-          - Collaborated under high-pressure environments to ensure smooth live broadcasts.
-          - Developed real-time problem-solving skills and technical expertise.
-      - title: Military Service - GLZ & GLGLZ Radio
-        sub_title: Radio Sound Technician (2014 - 2017)
+          - Ensured smooth live broadcasts in high-pressure environments.
+          - Enhanced teamwork and communication skills by coordinating with technical staff and on-air talent.
+          - Supervised broadcast operations and edited radio programs.
+
+      - title: GLZ & GLGLZ Radio
+        sub_title: Radio Sound Technician (Military Service, 2014 - 2017)
         description: |
-          - Provided technical support for live news broadcasts and updates from the field.
-          - Trained new employees in radio systems and operational processes.
+          - Provided technical responsibility for live news broadcasts and field updates.
+          - Collaborated with various teams and trained new employees on system operations.
 
   - title: Additional Strengths
     layout: text
     content: |
-      - Strong analytical thinking, problem-solving, and teamwork skills.
-      - Quick learner with a history of successfully completing independent projects.
-      - Passionate about contributing to innovative, meaningful projects.
+      - Quick learner with proven success in independently completing projects.
+      - Strong analytical and critical thinking skills.
+      - Passionate about working on meaningful projects in collaborative environments.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
