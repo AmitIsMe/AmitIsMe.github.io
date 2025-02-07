@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Amit Pompas
 title: Backend Developer
-email: amitpom14@gmail.com
-website: www.github.com/pompas-code
+# email: amitpom14@gmail.com
+# website: www.github.com/pompas-code
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -28,11 +28,11 @@ linkedin_username: amit-pompas
 # youtube_username: globalmtb
 # orcid_username: 0000-0000-0000-0000
 
-# # Additional icon links
+# Additional icon links
 additional_links:
 - title: gmail
   icon: fas fa-envelope
-  url: amitpom14@gmail.com
+  url: mailto:amitpom14@gmail.com
 # # - title: another link
 # #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 # #   url: Link url (eg. https://google.com)
@@ -54,11 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
 darkmode: true  # Adjust as needed (options: true, false, never)
 
 content:
-  - title: Summary
-    layout: text
-    content: |
-      Highly motivated Backend Developer with hands-on experience in software projects.
-      Proven ability to learn new technologies independently and solve complex problems with scalable, secure solutions.
 
   - title: Technical Skills
     layout: text
