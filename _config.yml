@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Amit Pompas
-title: Amit Pompas Resume
+title: Backend Developer
 email: amitpom14@gmail.com
 website: www.github.com/pompas-code
 
@@ -29,7 +29,7 @@ linkedin_username: amit-pompas
 # orcid_username: 0000-0000-0000-0000
 
 # # Additional icon links
-# additional_links:
+additional_links:
 - title: gmail
   icon: fas fa-envelope
   url: amitpom14@gmail.com
