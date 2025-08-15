@@ -122,10 +122,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Producing miusic
+      - Producing music
       - Surfing
-      - Knitting
-      - [Sharing my knowledge in a YouTube](https://youtube.com/@amit_is_me?si=TYBVro3xZetn0ZdN)
+      - [Sharing my knowledge in a YouTube channel](https://youtube.com/@amit_is_me?si=TYBVro3xZetn0ZdN)
 
      
 # Footer
