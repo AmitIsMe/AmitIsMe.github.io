@@ -9,14 +9,14 @@ version: 2
 name: Amit Pompas
 title: Backend Developer
 # email: amitpom14@gmail.com
-# website: www.github.com/pompas-code
+# website: www.github.com/AmitIsMe
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  pompas-code
+github_username:  AmitIsMe
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -25,7 +25,7 @@ github_username:  pompas-code
 linkedin_username: amit-pompas
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+# youtube_username: Amit_is_me
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -122,14 +122,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+      - Producing miusic
+      - Surfing
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [Sharing my knowledge in a YouTube](https://youtube.com/@amit_is_me?si=TYBVro3xZetn0ZdN)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+     
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
